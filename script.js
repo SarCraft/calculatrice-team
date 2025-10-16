@@ -50,4 +50,3 @@ function substract() {
     // Affichage du résultat dans la page
     document.getElementById("resultat").innerText = "Résultat : " + resultat;
 }
-
