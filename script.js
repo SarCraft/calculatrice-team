@@ -33,4 +33,3 @@ function divide() {
     }
     return a / b;
 }
-
